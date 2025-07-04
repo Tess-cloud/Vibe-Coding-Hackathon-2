@@ -32,3 +32,9 @@ The AI extracts the *service* and *location*, then returns a matching fundi's de
 ---
 
 ## 🗂 Project Structure
+vibefix-ai/
+├── main.py # FastAPI backend
+├── app.py # Streamlit UI frontend
+├── fundis.csv # Fundi database
+├── README.md # This file
+└── venv/ # Virtual environment 
